@@ -1,4 +1,4 @@
-# 🚦 Perfect Traffic Light System - Mustafa - Sprint 4 - 5
+# 🚦 Perfect Traffic Light System
 
 ## 📋 İçindekiler
 - [Genel Bakış](#genel-bakış)
